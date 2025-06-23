@@ -41,7 +41,7 @@ GMM-RBFN-Cancer-Classifier/
 ## Installation
 ```bash
 git clone https://github.com/vasco-s-pereira/GMM-Driven-RBFN.git
-cd MeritPrize
+cd GMM-Driven-RBFN
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
