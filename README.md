@@ -84,7 +84,7 @@ pip install -r requirements.txt
 4. **Radial Basis Function Network (RBFN)**
 
    * Used GMM cluster centers as hidden-layer centroids.
-   * Gaussian kernel width β = 1/(2·d\_mean²).
+   * Gaussian kernel width $$β = 1/(2·d\_mean²)$$.
    * Sigmoid output for binary classification.&#x20;
 
 ## Results
